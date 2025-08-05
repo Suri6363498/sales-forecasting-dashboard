@@ -50,3 +50,16 @@ We aimed to solve the challenge of dynamic sales forecasting using real CRM data
 ## 📸 Screenshots
 ![Preview](screenshots/dashboard-preview.png)
 
+### 🔐 Salesforce Connection Proof
+
+Below are screenshots verifying our connection to Salesforce:
+
+
+- **salesforce-org-info.p<img width="1920" height="1080" alt="salesforce-org-info" src="https://github.com/user-attachments/assets/ea4fa295-38dc-40b8-aa86-df6b38220d65" />
+ng**:
+-
+-
+- **Shows org ID**: 00DgK000008FD3Z , **edition** :Developer
+-- **tableau-connected-app.png**: Confirms Tableau was authorized as an OAuth app
+- Edition, <img width="1920" height="1080" alt="salesforce-org-connection" src="https://github.com/user-attachments/assets/b400bd41-1315-44e6-8f20-04eb2ef155ad" />
+
