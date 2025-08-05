@@ -1,0 +1,5 @@
+| Requirement                       | Your Status                                                                     |
+| --------------------------------- | ------------------------------------------------------------------------------- |
+| ✅ Public Tableau Dashboard Link   |  https://public.tableau.com/app/profile/suraj.korishetti/viz/SalesForecastingDashboard_17543899446180/SalesForecastingDashboard?publish=yes                                                             |
+| ✅ GitHub Repo (optional but good) | (https://github.com/Suri6363498/retail-data-engineering-pipeline) |
+| ✅ Salesforce Org ID               |     00DgK000008FD3Z                                   |

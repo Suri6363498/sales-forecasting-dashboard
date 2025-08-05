@@ -1,0 +1,15 @@
+🧰 Built With
+
+Salesforce Developer Org – Cloud CRM platform used as the primary data source (Opportunities, Accounts)
+
+Tableau Cloud – Used for building and publishing the interactive dashboard
+
+Salesforce Connector for Tableau – Native connector to bring live Salesforce data into Tableau
+
+Tableau Forecasting Model – Built-in time series forecasting for predicting future sales
+
+Calculated Fields & Filters – Used for data preparation and segmentation in Tableau
+
+Tableau Public – For publishing and sharing the final dashboard via public link
+
+Web Browser (Chrome) – Used for interacting with Tableau Cloud and Salesforce
